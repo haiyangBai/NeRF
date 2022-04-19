@@ -9,3 +9,5 @@ conda activate nerf
 ```
 
 To install pytorch3d by [INSTALL.md](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md).
+
+## Training process is coming soon...
